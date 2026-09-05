@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I%27m+Zain+Uddin+%F0%9F%8F%81;Future+Front-End+Developer+%F0%9F%94%A5;Founder+%40+INSTANT+%E2%9A%A1;I+Code+By+Vibe+%F0%9F%8E%AE;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I%27m+Zain+Uddin+%F0%9F%8F%81;Future+Front-End+Developer+%F0%9F%94%A5;Founder+%40+Mefolio+%E2%9A%A1;I+Code+By+Vibe+%F0%9F%8E%AE;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Python" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Future Front-End Developer & founder of <b>INSTANT</b> — building the web with AI, from Quetta 🇵🇰</h3>
+<h3 align="center">Future Front-End Developer & founder of <b>Mefolio</b> — building the web with AI, from Quetta 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zainpapi&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile views" />
@@ -23,7 +23,7 @@
 
 ## ⚡ About Me
 
-- 🚀 Founder & creator of **INSTANT** — an AI-powered link-in-bio platform
+- 🚀 Founder & creator of **Mefolio** — an AI-powered link-in-bio platform
 - 💻 I've built a **desktop app**, a **web app**, and a **Discord bot**
 - 🎨 Fun side projects in the works (not published yet)
 - 🤖 I code by **vibe** — heavy AI-assisted development
@@ -84,7 +84,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://mefolio.site"><img src="https://img.shields.io/badge/INSTANT-Link+in+Bio-FF2D95?style=for-the-badge&logo=vercel&logoColor=white" alt="INSTANT"/></a>
+  <a href="https://mefolio.site"><img src="https://img.shields.io/badge/Mefolio-Link+in+Bio-FF2D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Mefolio"/></a>
   <a href="https://zainuddin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
   <a href="mailto:playwithstephen98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/zainpapi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
