@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zainpapi/zainpapi/main/assets/ascii-art.png" alt="Cadet Zain ASCII portrait" width="300"/>
+  <img src="https://raw.githubusercontent.com/zainpapi/zainpapi/main/assets/ascii-art-anim.gif" alt="Cadet Zain ASCII portrait" width="300"/>
 </p>
 
 ---
