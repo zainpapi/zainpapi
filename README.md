@@ -56,24 +56,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zainpapi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF2D95&text_color=c9d1d9&ring_color=00E5FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainpapi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainpapi&theme=github_dark" alt="Profile details" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zainpapi&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zainpapi&theme=github_dark" alt="Productive time" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zainpapi&theme=github_dark" alt="Most commit languages" />
+</p>
+
+### 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zainpapi&hide_border=true&background=0d1117&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub streak" height="165" />
-</p>
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zainpapi&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainpapi&hide_border=true&bg_color=0d1117&color=c9d1d9&line=00E5FF&point=FF2D95&area=true&area_color=1a1f2e" alt="Contribution graph" />
 </p>
 
 ### 🐍 Snake Is Eating My Contributions
