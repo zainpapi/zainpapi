@@ -43,9 +43,9 @@
 ## 🚀 My Projects
 
 <!-- PROJECTS:START -->
+- [**Zainuddin**](https://github.com/zainpapi/Zainuddin) (JavaScript)
 - [**Fun**](https://github.com/zainpapi/Fun) (HTML)
 - [**Zeetable**](https://github.com/zainpapi/Zeetable) (HTML)
-- [**Zainuddin**](https://github.com/zainpapi/Zainuddin) (TypeScript)
 - [**PakPhantom**](https://github.com/zainpapi/PakPhantom) — A powerful, Discord Bot Website built for every server. (HTML)
 <!-- PROJECTS:END -->
 
